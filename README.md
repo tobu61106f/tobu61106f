@@ -1,4 +1,4 @@
 # README
 
 ###
-Its a Train nerd, what can you expect on? 
+Its a Train nerd 🤓, what do you expect?
