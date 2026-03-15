@@ -1,5 +1,5 @@
 # README.md
-<a href="https://volt.fm/tobu61106f" target="_blank"><img src="https://spotify-badge-tobu61106f.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
+
 ##
 It's a Train nerd 🤓, what do you expect?
 
